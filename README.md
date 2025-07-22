@@ -1,4 +1,4 @@
-# 🌀 SpellShape: A Lightweight AI-Native Format for Parametric 3D
+# 🌀 .spell: A Lightweight AI-Native Format for Parametric 3D
 
 **SpellShape** is an evolving idea — a lightweight, text-based format for defining parametric 3D models that are easy to automate, modify, and generate with AI.
 
